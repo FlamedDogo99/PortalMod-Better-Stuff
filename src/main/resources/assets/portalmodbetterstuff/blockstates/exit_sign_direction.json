@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "portalmodbetterstuff:block/exit_sign_direction" },
+    "facing=south": { "model": "portalmodbetterstuff:block/exit_sign_direction", "y": 180 },
+    "facing=east":  { "model": "portalmodbetterstuff:block/exit_sign_direction", "y": 90 },
+    "facing=west":  { "model": "portalmodbetterstuff:block/exit_sign_direction", "y": 270 }
+  }
+}

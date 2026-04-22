@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "portalmodbetterstuff:block/relaxation_vault" },
+    "facing=south": { "model": "portalmodbetterstuff:block/relaxation_vault", "y": 180 },
+    "facing=east": { "model": "portalmodbetterstuff:block/relaxation_vault", "y": 90 },
+    "facing=west": { "model": "portalmodbetterstuff:block/relaxation_vault", "y": 270 }
+  }
+}

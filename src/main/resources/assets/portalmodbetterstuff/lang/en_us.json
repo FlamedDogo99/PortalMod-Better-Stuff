@@ -1,0 +1,28 @@
+{
+  "itemGroup.portalmodbetterstuff": "PortalMod+",
+
+  "block.portalmodbetterstuff.catwalk": "1-Way Catwalk",
+  "block.portalmodbetterstuff.catwalk_turn": "Turning Catwalk",
+  "block.portalmodbetterstuff.catwalk_more_side": "2-Way Catwalk",
+  "block.portalmodbetterstuff.catwalk_all_way": "No Barrier Catwalk",
+  "block.portalmodbetterstuff.catwalk_stairs": "Catwalk-Stairs",
+  "block.portalmodbetterstuff.catwalk_one_barrier": "One Barrier Catwalk",
+
+  "block.portalmodbetterstuff.aperture_glass": "Aperture Science Glass",
+  "block.portalmodbetterstuff.aperture_glass_pane": "Aperture Science Glass Pane",
+  "tooltip.portalmodbetterstuff.aperture_glass.connect": "Place it on another one to connect it.",
+
+  "block.portalmodbetterstuff.portal_gun_pedestal": "Portal Gun Pedestal",
+
+  "block.portalmodbetterstuff.exit_sign": "Exit Sign",
+  "block.portalmodbetterstuff.exit_sign_direction": "Exit Direction Sign",
+
+  "block.portalmodbetterstuff.security_camera": "Security Camera",
+
+  "block.portalmodbetterstuff.desk_floor": "Desk Floor",
+  "block.portalmodbetterstuff.computer_box": "Computer's Box",
+  "block.portalmodbetterstuff.computer_screen": "Computer's Screen",
+  "block.portalmodbetterstuff.office_chair": "Office Chair",
+
+  "block.portalmodbetterstuff.relaxation_vault": "Relaxation Vault"
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "portalmodbetterstuff:block/aperture_glass_pane",
+    "textures": {
+        "0": "portalmodbetterstuff:block/aperture_glass_bottom",
+        "particle": "portalmodbetterstuff:block/aperture_glass_bottom"
+    }
+}

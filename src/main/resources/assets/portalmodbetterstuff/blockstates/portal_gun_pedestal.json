@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "portalmodbetterstuff:block/portal_gun_pedestal" },
+    "facing=south": { "model": "portalmodbetterstuff:block/portal_gun_pedestal", "y": 180 },
+    "facing=east": { "model": "portalmodbetterstuff:block/portal_gun_pedestal", "y": 90 },
+    "facing=west": { "model": "portalmodbetterstuff:block/portal_gun_pedestal", "y": 270 }
+  }
+}

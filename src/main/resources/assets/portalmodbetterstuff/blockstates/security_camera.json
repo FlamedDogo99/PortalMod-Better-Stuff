@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "portalmodbetterstuff:block/security_camera", "y": 180 },
+    "facing=east":  { "model": "portalmodbetterstuff:block/security_camera", "y": 270 },
+    "facing=south": { "model": "portalmodbetterstuff:block/security_camera" },
+    "facing=west":  { "model": "portalmodbetterstuff:block/security_camera", "y": 90 }
+  }
+}

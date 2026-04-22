@@ -1,0 +1,28 @@
+{
+  "itemGroup.portalmodbetterstuff": "PortalMod+",
+
+  "block.portalmodbetterstuff.catwalk": "Passerelle à 1 Chemin",
+  "block.portalmodbetterstuff.catwalk_turn": "Passerelle à Virage",
+  "block.portalmodbetterstuff.catwalk_more_side": "Passerelle à 2 Chemin",
+  "block.portalmodbetterstuff.catwalk_all_way": "Passerelle sans Barrière",
+  "block.portalmodbetterstuff.catwalk_stairs": "Escalier-Passerelle",
+  "block.portalmodbetterstuff.catwalk_one_barrier": "Passerelle à 1 Barrière",
+
+  "block.portalmodbetterstuff.aperture_glass": "Verre d'Aperture Science",
+  "block.portalmodbetterstuff.aperture_glass_pane": "Vitre d'Aperture Science",
+  "tooltip.portalmodbetterstuff.aperture_glass.connect": "Place-le sur un autre pour les connecter.",
+
+  "block.portalmodbetterstuff.portal_gun_pedestal": "Piédestal de Générateur à Portail",
+
+  "block.portalmodbetterstuff.exit_sign": "Panneau de Sortie",
+  "block.portalmodbetterstuff.exit_sign_direction": "Panneau de Sortie avec Flèche",
+
+  "block.portalmodbetterstuff.security_camera": "Caméra de Sécurité",
+
+  "block.portalmodbetterstuff.desk_floor": "Sol de Bureau",
+  "block.portalmodbetterstuff.computer_box": "Boite d'Ordinateur",
+  "block.portalmodbetterstuff.computer_screen": "Ecran d'Ordinateur",
+  "block.portalmodbetterstuff.office_chair": "Chaise de Bureau",
+
+  "block.portalmodbetterstuff.relaxation_vault": "Caisson de Relaxation"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "portalmodbetterstuff:block/computer_screen" },
+    "facing=south": { "model": "portalmodbetterstuff:block/computer_screen", "y": 180 },
+    "facing=east": { "model": "portalmodbetterstuff:block/computer_screen", "y": 90 },
+    "facing=west": { "model": "portalmodbetterstuff:block/computer_screen", "y": 270 }
+  }
+}

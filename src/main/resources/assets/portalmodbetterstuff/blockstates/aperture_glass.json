@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "paneled=false,type=normal": { "model": "portalmodbetterstuff:block/aperture_glass_top" },
+    "paneled=true,type=normal":  { "model": "portalmodbetterstuff:block/aperture_glass_top" },
+    "paneled=false,type=top":    { "model": "portalmodbetterstuff:block/aperture_glass_top" },
+    "paneled=true,type=top":     { "model": "portalmodbetterstuff:block/aperture_glass_top" },
+    "paneled=false,type=bottom": { "model": "portalmodbetterstuff:block/aperture_glass_bottom" },
+    "paneled=true,type=bottom":  { "model": "portalmodbetterstuff:block/aperture_glass_bottom" }
+  }
+}

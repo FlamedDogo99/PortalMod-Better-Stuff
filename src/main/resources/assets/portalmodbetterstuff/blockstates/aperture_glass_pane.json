@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,paneled=false,type=normal": { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 180 },
+    "facing=south,paneled=false,type=normal": { "model": "portalmodbetterstuff:block/aperture_glass_pane" },
+    "facing=east,paneled=false,type=normal":  { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 270 },
+    "facing=west,paneled=false,type=normal":  { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 90 },
+
+    "facing=north,paneled=true,type=normal":  { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 180 },
+    "facing=south,paneled=true,type=normal":  { "model": "portalmodbetterstuff:block/aperture_glass_pane" },
+    "facing=east,paneled=true,type=normal":   { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 270 },
+    "facing=west,paneled=true,type=normal":   { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 90 },
+
+    "facing=north,paneled=false,type=top":    { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 180 },
+    "facing=south,paneled=false,type=top":    { "model": "portalmodbetterstuff:block/aperture_glass_pane" },
+    "facing=east,paneled=false,type=top":     { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 270 },
+    "facing=west,paneled=false,type=top":     { "model": "portalmodbetterstuff:block/aperture_glass_pane", "y": 90 },
+
+    "facing=north,paneled=false,type=bottom": { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom", "y": 180 },
+    "facing=south,paneled=false,type=bottom": { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom" },
+    "facing=east,paneled=false,type=bottom":  { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom", "y": 270 },
+    "facing=west,paneled=false,type=bottom":  { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom", "y": 90 },
+
+    "facing=north,paneled=true,type=bottom":  { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom", "y": 180 },
+    "facing=south,paneled=true,type=bottom":  { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom" },
+    "facing=east,paneled=true,type=bottom":   { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom", "y": 270 },
+    "facing=west,paneled=true,type=bottom":   { "model": "portalmodbetterstuff:block/aperture_glass_pane_bottom", "y": 90 }
+  }
+}

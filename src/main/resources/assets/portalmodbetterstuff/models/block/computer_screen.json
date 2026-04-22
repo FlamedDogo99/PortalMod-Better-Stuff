@@ -1,0 +1,74 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "portalmodbetterstuff:computer/computer_screen",
+		"particle": "portalmodbetterstuff:computer/computer_screen"
+	},
+	"elements": [
+		{
+			"from": [-5, 4.5, 5.5],
+			"to": [21, 19, 6],
+			"rotation": {"angle": 0, "axis": "x", "origin": [12, 4, 5.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 14.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 14.5], "texture": "#0"},
+				"south": {"uv": [0, 14.70968, 3.09677, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 14.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 10.75, 6],
+			"to": [9, 12.75, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 10.75, 6]},
+			"faces": {
+				"north": {"uv": [1, 1, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 15.09677, 2.83871, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.09677, 2.96774, 16], "texture": "#0"},
+				"west": {"uv": [0, 14.58065, 3.09677, 16], "texture": "#0"},
+				"up": {"uv": [0, 14.70968, 2.96774, 16], "texture": "#0"},
+				"down": {"uv": [0, 14.96774, 2.45161, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [53, 0, 0],
+			"translation": [0, 0, -1.75],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [53, 0, 0],
+			"translation": [0, 0, -1.75],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 149, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 149, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"ground": {
+			"scale": [0.24, 0.24, 0.24]
+		},
+		"gui": {
+			"rotation": [33, -133, 0],
+			"translation": [-0.75, -1.5, 0],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"head": {
+			"translation": [0, -3.5, -5.25]
+		},
+		"fixed": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

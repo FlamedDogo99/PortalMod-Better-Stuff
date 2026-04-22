@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "portalmodbetterstuff:block/catwalk" },
+    "facing=east":  { "model": "portalmodbetterstuff:block/catwalk", "y": 90 },
+    "facing=south": { "model": "portalmodbetterstuff:block/catwalk", "y": 180 },
+    "facing=west":  { "model": "portalmodbetterstuff:block/catwalk", "y": 270 }
+  }
+}
